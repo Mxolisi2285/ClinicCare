@@ -1,4 +1,4 @@
-# 🏥 ClinicCare Console - Java SE Project
+# 🏥 ClinicCare Console - Java SE Project 
 
 ## 📌 Overview 
 
