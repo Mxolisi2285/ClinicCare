@@ -1,6 +1,6 @@
 # 🏥 ClinicCare Console - Java SE Project
 
-## 📌 Overview
+## 📌 Overview 
 
 **ClinicCare Console** is a simple Java SE (Standard Edition) console application designed for small clinic environments. It helps clinic staff manage patients, doctors, and appointments directly from the terminal without the need for a graphical interface.
 
