@@ -10,15 +10,34 @@ This system is ideal for educational purposes and showcases the application of O
 
 ## 🎯 Features
 
-- ✅ Register New Patients
-- 📋 View Patient Records
-- 🗓 Schedule and View Appointments
-- 👨‍⚕️ Manage Doctor Profiles
-- 💊 Add Prescriptions (optional)
-- 📄 Basic Billing System (optional)
-- 💾 Data Persistence via File I/O
+- ✅ Register New Patients  
+- 📋 View Patient Records  
+- 🗓 Schedule and View Appointments  
+- 👨‍⚕️ Manage Doctor Profiles  
+- 💊 Add Prescriptions (optional)  
+- 📄 Basic Billing System (optional)  
+- 💾 Data Persistence via File I/O  
 
 ---
 
 ## 🏗 Project Structure
 
+ClinicCare/
+│
+├── Main.java
+├── models/
+│ ├── Patient.java
+│ ├── Doctor.java
+│ ├── Appointment.java
+│ └── Prescription.java
+├── services/
+│ ├── PatientService.java
+│ ├── DoctorService.java
+│ ├── AppointmentService.java
+│ └── BillingService.java
+├── utils/
+│ └── FileUtils.java
+└── data/
+├── patients.txt
+├── doctors.txt
+└── appointments.txt
